@@ -1,7 +1,3 @@
-Here’s a clean, professional README you can drop straight into your repo:
-
----
-
 # 🛒 Online Store (CLI Application)
 
 A simple command-line based Online Store application built in Java. This project simulates a basic shopping experience where users can browse products, search, add items to a cart, and complete a checkout process.
