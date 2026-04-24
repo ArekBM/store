@@ -93,8 +93,6 @@ AV1051|JBL Bluetooth Speaker|89.95|Audio Video
 
 ---
 
-## ⭐ Bonus Features (Optional)
-
 ### 💳 Checkout
 
 * Accept cash payment
@@ -180,6 +178,3 @@ git clone https://github.com/your-username/online-store.git
 
 This project is for educational purposes.
 
----
-
-If you want, I can tailor this to match your exact classes (like `Product`, `Cart`, `CartItem`, etc.) or make it sound more casual or more impressive for GitHub recruiters 👍
